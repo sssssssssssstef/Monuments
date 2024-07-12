@@ -84,6 +84,10 @@ a:hover {
 	box-shadow: 0 14px 30px -15px rgba(0, 0, 0, 0.75);
 }
 
+.product-thumb {
+	min-width: 300px;
+}
+
 .product-thumb a {
 	display: flex;
 	align-items: center;
