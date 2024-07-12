@@ -200,7 +200,8 @@ IMG.displaied {
 	margin-right: auto;
 	max-width: 500px;
 	max-height: 300px;
-
+	min-width: 300px;
+	min-height: 100px;
 }
 
 .desc {
